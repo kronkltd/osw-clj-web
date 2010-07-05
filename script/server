@@ -1,0 +1,3 @@
+(require 'osw-clj-web.core)
+
+(osw-clj-web.core/start 8081)

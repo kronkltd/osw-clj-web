@@ -1,0 +1,11 @@
+*jar
+lib
+classes
+.circumspec
+autodoc
+checkouts
+bin
+target
+.classpath
+.project
+.settings
