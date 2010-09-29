@@ -101,5 +101,3 @@ $(function() {
       delay: 0,
       select: addRecipient});
 });
-
-prettyPrint();
