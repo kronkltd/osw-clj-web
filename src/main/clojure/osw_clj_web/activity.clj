@@ -137,7 +137,7 @@
       (if-let [jid (params "jid")]
         (f/hidden-field :parent-jid jid)))
     [:section (f/text-area :content)]
-    [:section.recipient-section.hidden
+    [:section.recipient-section
      [:h "Recipients"]
      [:p
       (f/text-field {:class "recipient"} "recipient-input")
